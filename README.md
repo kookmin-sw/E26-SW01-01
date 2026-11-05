@@ -5,6 +5,7 @@
 > git commit -m "오늘도 한 줄”
 
 ## 🖼️ 팀 포스터
+![Uploading image.png…]()
 
 <div class="poster"><img src="poster.jpg" alt="팀 포스터" width="600"/></div>
 
