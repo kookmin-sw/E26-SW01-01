@@ -577,11 +577,10 @@
     > 2050년에는 기술의 발전과 안전성 검증을 통해 병원에 도착한 뒤에만 치료가 시작되는 방식에서, 몸속에서부터 치료를 지원하는 새로운 의료 환경으로 발전할 가능성을 제안한다.
     
     **📚 참고 문헌 및 자료**
-    1) **ETH Zurich**: 자기장 기반 마이크로로봇 및 정밀 이동 제어 관련 연구
-    2) **Nature Communications**: 생체재료와 조직 재생 등 관련 연구 분야
-    3) **Science**: 마이크로로봇 이동 및 의료 응용 관련 연구 분야
-    
-    ※ 위 자료는 프로젝트에서 검토한 연구 기관·학술지 및 분야를 정리한 것으로, 개별 논문의 정확한 제목·저자·발행 연도와 URL은 별도 확인이 필요하다.
+
+    1. Landers, F. C. et al. (2025). *Clinically ready magnetic microrobots for targeted therapies*. **Science**. https://doi.org/10.1126/science.adx1708
+    2. Ding, Z. et al. (2025). *Janus hydrogel microrobots with bioactive ions for the regeneration of tendon-bone interface*. **Nature Communications, 16**, 2189. https://www.nature.com/articles/s41467-025-57499-x
+    3. Wang, F. et al. (2026). *Optoacoustic-Guided Magnetic Microrobot Platform for Precision Drug Delivery*. **Advanced Materials, 38**. https://doi.org/10.1002/adma.202511870
     
     **🎤 발표 자료**
     > [MicroMedic 2050 HTML 발표 자료 보기](https://kookmin-sw.github.io/E26-SW01-01/presentation/)
