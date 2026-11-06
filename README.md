@@ -6,7 +6,13 @@
 
 ## 🖼️ 팀 포스터
 
-<div class="poster"><img src="poster.png" alt="팀 포스터" width="600"/></div>
+<div class="poster">
+  <a href="poster.png">
+    <img src="poster.png" alt="팀 포스터" width="600"/>
+  </a>
+</div>
+
+[🔍 포스터 원본 크게 보기](poster.png)
 
 <p align="center" class="poster-caption"><sub>메디노바(MediNova) 팀, 「MicroMedic 2050: 골든타임은 몸 안에서 시작된다」(2026). 이미지 생성 및 디자인 보조: 생성형 AI</sub></p>
 
